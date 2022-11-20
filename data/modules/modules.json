@@ -1,9 +1,23 @@
 {
     "modules": [
         {
+            "img":"/imgs/modules/sharepoint_admin.jpeg",
+            "imgAlign":"left",
+            "title":"SharePoint Software Management/Administration Services",
+            "subTitle":"SharePoint Administration Services help members of your organization work more efficiently and productively.",
+            "body":"<p>The administration services that the client can make use of are:</p><p><strong>Application Management:</strong> Managing Web applications, content databases, service applications, and site collections</p><p><strong>System Settings:</strong> Manage servers, services, farm features, alternate access mappings, and e-mail and text messaging options.</p><p><strong>Monitoring:</strong> Review health problems and solutions, check timer job status, and view Web analytics reports.</p><p><strong>Backup and Restore:</strong> Perform a farm backup, a site collection backup, or manage and monitor backup jobs.</p><p><strong>Microsoft Exchange Server:</strong> Manage the farm administrators group, service accounts, Web application policy, and information management policy.</p><p><strong>Upgrade and Migration:</strong> Convert farm license type, enable enterprise features, enable features on existing sites, and check product, patch, upgrade, and database status</p><p>Cloud Crew has become an innovation in providing unique business solutions to our valued customers.</p>"
+        },
+        {
+            "img": "/imgs/modules/sharepoint_config.jpeg",
+            "imgAlign": "right",
+            "title": "SharePoint Installation and Configuration Services",
+            "subTitle": "Cloud Crew allows the configuration of individual services independently, enabling you to implement the services according to the needs of an organization.",
+            "body": "<p><strong>SharePoint Application Management & Monitoring:</strong> our meticulous plan for managing the applications effectively for any organization imparts protection.</p><p><strong>Managing SharePoint Permissions and Security Groups:</strong> We create additional groups and permission levels if you need an improvised control over the activities that your users can take.</p><p><strong>Analyzing and Reporting on Usage and activity:</strong> Providing health SharePoint services to meet the demands of various businesses.</p><p><strong>Monitor Health of Running Services:</strong> We focuses on providing health SharePoint services to meet the demands of various businesses.</p><p><strong>SharePoint Security Management:</strong> Collaborate different SharePoint users to make the administration and maintenance of security in SharePoint easier.</p><p><strong>SharePoint System Settings, E-mail and text messaging options:</strong> We can help any organization to manage the system setting by making use of the System settings, e-mail and text messaging options.</p><p><strong>SharePoint Software Maintenance:</strong> We are leading strategies to administer SharePoint software maintenance activities to its clients.</p><p><strong>SharePoint Backup and Restore:</strong> We designed a platform to our esteemed clients to use the SharePoint approach of backup and restore.</p><p><strong>Upgrade and Migration Databases:</strong> We support the migration plan due to its competency in identifying the various component tasks such as identification and estimations, and planning of resources among others.</p>"
+        },        
+        {
             "img": "/imgs/modules/team.jpeg",
             "imgAlign": "left",
-            "title": "OUR BUSINESS CLOUD SERVICES",
+            "title": "Our Business Cloud Services",
             "subTitle": "Delivering the promise of the cloud",
             "body": "<p>Cloud Crew is the leading multi-cloud services provider. Our mission is to deliver the promise of the cloud, helping enterprises navigate their unique journeys and build new foundations for future growth.</p><p>For more than 10 years, Cloud Crew has been helping high-profile, complex organizations adopt cutting edge technologies to solve challenges and create new opportunities. Our end-to-end suite of services has delivered unrivalled value for more than 1,000 enterprise customers globally.<p>"
         },
@@ -16,7 +30,7 @@
         {
             "img": "/imgs/modules/team-fives.gif",
             "imgAlign": "right",
-            "title": "PARTNERS",
+            "title": "Partners",
             "subTitle": "We enter partnerships",
             "body": "<p>When working with Cloud Crew, we enter partnerships with our clients.</p><p>We will stick by your side from start to finish on any project.</p>"
         }
