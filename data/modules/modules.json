@@ -1,0 +1,24 @@
+{
+    "modules": [
+        {
+            "img": "/imgs/modules/team.jpeg",
+            "imgAlign": "left",
+            "title": "OUR BUSINESS CLOUD SERVICES",
+            "subTitle": "Delivering the promise of the cloud",
+            "body": "<p>Cloud Crew is the leading multi-cloud services provider. Our mission is to deliver the promise of the cloud, helping enterprises navigate their unique journeys and build new foundations for future growth.</p><p>For more than 10 years, Cloud Crew has been helping high-profile, complex organizations adopt cutting edge technologies to solve challenges and create new opportunities. Our end-to-end suite of services has delivered unrivalled value for more than 1,000 enterprise customers globally.<p>"
+        },
+        {
+            "img": "",
+            "imgAlign": "center",
+            "title": "Cloud Services",
+            "subTitle": "Need Help? Using cloud services can be complex, you can ensure we are with you every step of the way."
+        },
+        {
+            "img": "/imgs/modules/team-fives.gif",
+            "imgAlign": "right",
+            "title": "PARTNERS",
+            "subTitle": "We enter partnerships",
+            "body": "<p>When working with Cloud Crew, we enter partnerships with our clients.</p><p>We will stick by your side from start to finish on any project.</p>"
+        }
+    ]
+}

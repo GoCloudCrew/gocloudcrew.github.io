@@ -1,0 +1,47 @@
+{
+    "siteName": "Cloud Crew",
+    "menu": [
+        {
+            "title": "Home",
+            "path": "/"
+        },
+        {
+            "title": "Sharepoint",
+            "path": "/page/sharepoint"
+        },
+        {
+            "title": "Office 365",
+            "path": "/page/office"
+        },
+        {
+            "title": "Azure",
+            "path": "/page/azure"
+        },        
+        {
+            "title": "About Us",
+            "path": "/about"
+        },
+        {
+            "title": "Contact Us",
+            "path": "/contact"
+        }
+    ],
+    "subMenu": [
+        {
+            "title": "Cloud Strategy",
+            "path": "/page/cloud-strategy"
+        },
+        {
+            "title": "Cloud Build",
+            "path": "/page/cloud-build"
+        },
+        {
+            "title": "Cloud Management",
+            "path": "/page/cloud-management"
+        },
+        {
+            "title": "Cloud Migration",
+            "path": "/page/cloud-migration"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "featured": [
+      {
+        "name": "sharepoint",
+        "src": "/imgs/sharepoint/sharepoint.png",
+        "title": "Sharepoint",
+        "description": "Let us upgrade your Sharepoint enviornment"
+      },
+      {
+        "name": "office",
+        "src": "/imgs/office/nebula.jpeg",
+        "title": "Microsoft Office 365",
+        "description": "Application services"
+      },
+      {
+        "name": "azure",
+        "src": "/imgs/azure/planet.jpg",
+        "title": "Move to Azure",
+        "description": "Easily Grow Your Application by Moving to Azure"
+      }
+    ]
+}

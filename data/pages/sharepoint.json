@@ -1,0 +1,9 @@
+{
+    "categories": [
+        "product"
+    ],
+    "title": "Sharepoint",
+    "subTitle": "Let us upgrade your Sharepoint environment.",
+    "image": "/imgs/sharepoint/sharepoint.png",
+    "body": "<div><h3>On-Premises Upgrade</h3><p>Is it time to upgrade your existing on premises SharePoint environment?  Add functionality, improve security and ensure you’re fully supported after your migration to a modern SharePoint Server version.</p><br/>\n            </div>\n            <div>\n                <h3>Office 365 Migration</h3>\n                <p>New to Office 365 and want to experience the benefits of SharePoint Online?  When you work with our Crew, we will ensure your project is more than just a migration.  We will transform your organization.</p><br/>\n            </div>\n            <div>\n                <h3>Hybrid SharePoint</h3>\n                <p>Can’t move 100% of your data to Office 365?  A hybrid migration may allow you to benefit from the additional functionality and flexibility of Office 365 while keeping your most sensitive data securely on-premises.</p><br/>\n            </div>\n            <div>\n                <h3>Migrate From Anywhere</h3>\n                <p>Is your data stored outside of ShrePoint? Cloud Crew has helped customers migrate from various other Microsoft and non-Microsoft origins including Box, Dropbox, File Shares, Google Drive, Lotus Notes and more.</p><br/>\n            </div>"
+}
