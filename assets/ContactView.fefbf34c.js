@@ -1,1 +1,0 @@
-import{C as t}from"./ContactUs.f5820bda.js";import{_ as n,r as c,o as e,c as s}from"./index.d36cf624.js";const a={name:"ContactView",components:{ContactUs:t}};function r(p,_,m,f,i,C){const o=c("ContactUs");return e(),s(o)}const u=n(a,[["render",r]]);export{u as default};
