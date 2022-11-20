@@ -1,0 +1,10 @@
+# A dynamic page
+data:
+  title: Cloud Build
+  subTitle: 
+  image: 
+  body: \n
+    <div>Cloud Build is coming soon</div>
+  featured: false
+  categories:
+    - cloud

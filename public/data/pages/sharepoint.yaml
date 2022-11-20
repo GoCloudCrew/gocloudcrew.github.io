@@ -1,0 +1,77 @@
+# A dynamic page
+data:
+  title: Sharepoint
+  subTitle: Let us upgrade your Sharepoint environment.
+  image: /imgs/sharepoint/sharepoint.png
+  body: \n
+    <div> 
+      <h2>We Offer the Following Sharepoint Services</h2><br/> 
+      <div> 
+        <h3>Application Management</h3> 
+        <p>
+          We have plan for managing the applications effectively for any 
+          organization, whether it be managing web applications, content 
+          databases, service applications, and site collections
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>On-Premises Upgrade</h3> 
+        <p>
+          Is it time to upgrade your existing on premises SharePoint environment? 
+          Add functionality, improve security and ensure you’re fully supported 
+          after your migration to a modern SharePoint Server version.
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>Office 365 Migration</h3> 
+        <p>
+          New to Office 365 and want to experience the benefits of SharePoint 
+          Online? When you work with our Crew, we will ensure your project is 
+          more than just a migration. We will transform your organization.
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>Hybrid SharePoint</h3> 
+        <p>
+          Can’t move 100% of your data to Office 365? A hybrid migration may allow 
+          you to benefit from the additional functionality and flexibility of Office 
+          365 while keeping your most sensitive data securely on-premises.
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>Migrate From Anywhere</h3> 
+        <p>
+         Is your data stored outside of ShrePoint? Cloud Crew has helped customers
+         migrate from various other Microsoft and non-Microsoft origins including Box, 
+         Dropbox, File Shares, Google Drive, Lotus Notes and more.
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>System Configuration</h3> 
+        <p>
+          We can document and configure your SharePoint components such as servers, 
+          farm features, alternate access mappings, and e-mail and text messaging 
+          options.
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>Backup and Restore</h3> 
+        <p>
+          We can perform farm backups, site collection backups, or set up and monitor 
+          regular scheduled backup jobs.
+        </p><br/> 
+      </div>
+      <div> 
+        <h3>Microsoft Exchange Server</h3> 
+        <p>
+          We can configure and maintain your Microsoft Exchange Servers integration with 
+          Sharepoint
+        </p>
+      </div><br/><br/>
+      <p>
+        If you need help with any of these services, we would love to hear from you, 
+        so <a href='/#/contact'>contact us now</a>
+      </p>
+  featured: false
+  categories:
+    - product

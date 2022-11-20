@@ -1,9 +1,0 @@
-{
-    "categories": [
-        "product"
-    ],
-    "title": "Move to Azure",
-    "subTitle": "Easily Grow Your Application by Moving to Azure",
-    "image": "/imgs/azure/planet.jpg",
-    "body":"<strong>Move Your Existing Application</strong><p>Do you want to move your Web Application into a space where it can grow? We can help you do that. We have cloud architects that can design architecture that won't break the bank and allow you to leverage all the features of the cloud.</p><br/><strong>Grow Your Application</strong><p>Is your application already in the cloud but you want to take advantage of the latest container technologies. The crew can help you get AKS deployed and your application ready for High Availability.</p>"
-}

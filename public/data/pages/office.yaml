@@ -1,0 +1,14 @@
+# A dynamic page
+data:
+  title: Microsoft Office 365
+  subTitle: Tool services
+  image: /imgs/office/nebula.jpeg
+  body: \n
+    <h3>Your Brand</h3>
+    Do you need help creating a template for a Microsoft application? 
+    Let the crew take the time to generate that template for you. 
+    We will provide your company with professional looking templates 
+    at a reasonable cost.
+  featured: false
+  categories:
+    - product

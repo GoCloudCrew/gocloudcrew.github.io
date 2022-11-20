@@ -1,0 +1,10 @@
+# A dynamic page
+data:
+  title: Cloud Management
+  subTitle: 
+  image: 
+  body: \n
+    <div>Cloud Management is coming soon</div>
+  featured: false
+  categories:
+    - cloud
