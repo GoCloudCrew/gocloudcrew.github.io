@@ -1,4 +1,4 @@
-import{_ as y,r as n,o as C,c as x,w as s,a as t,b as a}from"./index.fe442fed.js";const A={data(){return{name:"",message:"",emailAddress:"",newsLetter:!1,privacy:!1}},methods:{clearForm(){this.name="",this.message="",this.emailAddress="",this.newsLetter=!1,this.privacy=!1},sendEmail(){const r="contact@gocloudcrew.com",e=encodeURIComponent("Hi Cloud Crew, Give me more information."),m=`
+import{_ as y,r as n,o as C,c as x,w as s,a as t,b as a}from"./index.18aaae0b.js";const A={data(){return{name:"",message:"",emailAddress:"",newsLetter:!1,privacy:!1}},methods:{clearForm(){this.name="",this.message="",this.emailAddress="",this.newsLetter=!1,this.privacy=!1},sendEmail(){const r="contact@gocloudcrew.com",e=encodeURIComponent("Hi Cloud Crew, Give me more information."),m=`
 ${encodeURIComponent(this.message)}%0D%0A
 -----------------------------------------%0D%0A%0D%0A
 From: ${encodeURIComponent(this.name)}%0D%0A
