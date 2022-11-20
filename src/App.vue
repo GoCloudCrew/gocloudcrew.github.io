@@ -12,10 +12,12 @@ export default {
   },
   methods: {
     onClick() {
-      this.theme = this.theme === 'dark' ? 'light' : 'dark'
+      this.theme = this.theme === 'dark' ? 'light' : 'dark';
+      window.localStorage.theme = this.theme;
     }
   },
   async created(){
+    this.theme = window.localStorage.theme || 'dark'; 
     const settings = await Reader.system();
     this.siteName = settings.siteName;
     this.menu = settings.menu;
@@ -40,7 +42,7 @@ export default {
           'dark' ? 'Light Mode' : 'Dark Mode'
       }}</v-btn>
       <template v-slot:extension>
-        <v-tabs v-model="tab" centered>
+        <v-tabs v-model="tab" centered show-arrows>
           <v-tab v-for="(item) in menu" :key="item.title" :to="item.path">
             {{ item.title }}
           </v-tab>
