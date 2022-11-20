@@ -3,7 +3,7 @@ data:
   title: Move to Azure
   subTitle: Easily Grow Your Application by Moving to Azure
   image: /imgs/azure/planet.jpg
-  body: \n
+  body: 
     <strong>Move Your Existing Application</strong>
     <p>
       Do you want to move your Web Application into a space where it can grow? 

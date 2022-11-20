@@ -5,7 +5,7 @@ data:
       imgAlign: left
       title: SharePoint Software Management/Administration Services
       subTitle: Leave Administration to Us
-      body: \n
+      body: 
         <p>
           We offer services such as, Application Management, System Settings, 
           Monitoring, Backup and Restore, Microsoft Exhange, Upgrade and Migration. 
@@ -15,7 +15,7 @@ data:
       imgAlign: right
       title: SharePoint Installation and Configuration Services
       subTitle: Let us document and install your SharePoint
-      body: \n
+      body: 
         <p>    
           Cloud Crew takes the burden off of you with our Installation and Configuration 
           services. We handle, application management and monitoring, permissions and security 
@@ -32,7 +32,7 @@ data:
       imgAlign: left
       title: Our Business Cloud Services
       subTitle: Delivering the promise of the cloud
-      body: \n
+      body: 
         <p>
           Cloud Crew is the leading multi-cloud services provider. Our mission is to deliver the promise of the 
           cloud, helping enterprises navigate their unique journeys and build new foundations for future growth.
@@ -50,7 +50,7 @@ data:
       imgAlign: right
       title: Partners
       subTitle: We enter partnerships
-      body: \n
+      body: 
         <p>
           When working with Cloud Crew, we enter partnerships with our clients.
         </p>
