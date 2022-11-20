@@ -17,9 +17,9 @@
         {
             "img": "",
             "imgAlign": "center",
-            "color": "cyan darken-3",
+            "color": "blue lighten-3",
             "title": "SharePoint Services",
-            "subTitle": "Learn more about SharePoint Services. <a style='color:#424242;' href='/#/contact'>Contact Us</a> we would love to hear from you."
+            "subTitle": "Learn more about SharePoint Services. <a style='color:#424242;text-decoraton:none;' href='/#/contact'>Contact Us</a> we would love to hear from you."
         },               
         {
             "img": "/imgs/modules/team.jpeg",
