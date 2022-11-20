@@ -1,0 +1,10 @@
+# A dynamic page
+data:
+  title: Cloud Migration
+  subTitle: 
+  image: 
+  body: 
+    <div>Cloud Migration is coming soon</div>
+  featured: false
+  categories:
+    - cloud

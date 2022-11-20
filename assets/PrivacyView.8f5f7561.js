@@ -1,4 +1,4 @@
-import{_ as y,r as o,o as r,e as g,c as l,w as e,f as c,a as t,d as a,t as u}from"./index.fed7f394.js";const w={name:"PrivactView",data(){return{page:{pageName:"privacy-policy",data:{pageTitle:"Privacy Policy",pageSubTitle:"",pageImage:"/imgs/privacy/privacy.jpeg",pageContent:`<p>
+import{_ as y,r as o,o as r,e as g,c as l,w as e,f as c,a as t,d as a,t as u}from"./index.bcfc79b3.js";const w={name:"PrivactView",data(){return{page:{pageName:"privacy-policy",data:{pageTitle:"Privacy Policy",pageSubTitle:"",pageImage:"/imgs/privacy/privacy.jpeg",pageContent:`<p>
             Cloud Crew values individual privacy and we want to give our Site\xB4s visitors the opportunity to know what information we collect about them and how it is treated by us.
             </p>
             <p>
