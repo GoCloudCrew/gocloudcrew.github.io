@@ -17,6 +17,7 @@
         {
             "img": "",
             "imgAlign": "center",
+            "color": "cyan darken-3",
             "title": "SharePoint Services",
             "subTitle": "Learn more about SharePoint Services. <a href='/#/contact'>Contact Us</a> we would love to hear from you."
         },               
