@@ -40,6 +40,15 @@ export default {
     }
 }
 </script>
+<style scoped>
+.highlight {
+    display: inline-block;
+    line-height: 25px;
+    border-left-color: cornflowerblue;
+    border-left-width: 2px;
+    border-left-style: solid;
+}
+</style>
 <template>
     <div id="page">
         <v-img v-if="image && title" :src="image" height="300px" cover>

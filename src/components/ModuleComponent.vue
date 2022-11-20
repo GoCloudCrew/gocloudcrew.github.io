@@ -39,12 +39,12 @@ export default {
         </v-row>
     </v-card>
     <v-card v-else color="blue-darken-2">
-    <v-card :color="module.color ? module.color : 'blue-darken-2'" class="mx-auto pa-4"  tile>
-        <v-card-title class="justify-center text-center" v-html="module.subTitle"></v-card-title>
-        <v-card-subtitle class="text-center">
-            <h3>{{ module.title }}</h3>
-        </v-card-subtitle>
-    </v-card>
+        <v-card :color="module.color ? module.color : 'blue-darken-2'" class="mx-auto pa-4" tile>
+            <v-card-title class="justify-center text-center" v-html="module.subTitle"></v-card-title>
+            <v-card-subtitle class="text-center">
+                <h3>{{ module.title }}</h3>
+            </v-card-subtitle>
+        </v-card>
     </v-card>
 </template>
 <style scoped>
@@ -54,5 +54,21 @@ export default {
     border-left-color: cornflowerblue;
     border-left-width: 2px;
     border-left-style: solid;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
 }
 </style>

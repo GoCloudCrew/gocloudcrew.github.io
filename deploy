@@ -1,0 +1,11 @@
+#!/bin/bash
+npm run build
+cd ../marketingsite
+rm *.png
+rm *.ico
+rm *.html
+rm site.webmanifest
+rm -rf assets
+rm -rf data
+rm -rf imgs
+mv ../gocloudcrew.com/dist/* .
